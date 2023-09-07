@@ -50,7 +50,7 @@ L'élément HTML <label> représente une légende pour un objet d'une interface 
 <input type="datetime-local"/>
 
 <input type="file"/> pour envoyer un fichier
-NB:  La spécification HTML a été mise à jour le 28 avril 2016 afin de déprécier l'attribut form
+
 
 
 
